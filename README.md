@@ -1,8 +1,8 @@
 
 # Experiment 1  Implementation of Bayesian Networks
 
-## Aim :
-    To create a bayesian Network for the given dataset in Python.
+## Aim:
+To create a bayesian Network for the given dataset in Python
     
 ## Algorithm:
 
